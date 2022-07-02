@@ -4,6 +4,6 @@ package com.zjx.adapter;
 public class Adaptee {
 
     public void request(){
-        System.out.println("连接网线上网");
+        System.out.println("连接网线上网1");
     }
 }
